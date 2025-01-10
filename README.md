@@ -2,6 +2,8 @@
 
 This Langflow project implements a conversational question-answering (Q&A) system that leverages a vector database (Astra DB) for efficient information retrieval. The system combines embeddings, prompt engineering, and a large language model (Groq) to provide intelligent responses to user queries.
 
+#Project Link: https://www.findcoder.io/projects/supermind-hacks/67811c268015401a98b29580
+
 ## Overview
 
 The core functionality of this flow is to:
